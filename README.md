@@ -1,4 +1,4 @@
-# ETL Project - Top Spotify Tracks of 2018
+# ETL Project - SpotiPy
 
 ![Images/spotify2018.jpg](Images/spotify2018.jpg)
 
