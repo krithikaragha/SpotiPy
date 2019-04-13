@@ -2,7 +2,7 @@
 
 ![Images/spotify2018.jpg](Images/spotify2018.jpg)
 
-### Objective
+# Objective
 
 Discover the most popular features/trends for Top Artists of 2018/2019
 
