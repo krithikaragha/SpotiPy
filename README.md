@@ -1,4 +1,4 @@
-# ETL Project - SpotiPy
+# ETL Project - _SpotiPy_
 
 ![Images/spotify2018.jpg](Images/spotify2018.jpg)
 
