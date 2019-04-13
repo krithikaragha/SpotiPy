@@ -8,8 +8,8 @@ To find out what the most popular features/trends for the Top Touring Artists of
 
 ### Extract
 
-* Extracted 1st data source from Kaggle (Top Spotify Songs from 2018)
-* Scraped 2nd data source from 24/7 Wall St (Top 100 Touring Artists from 2019)
+* Extracted data from CSV file taken from Kaggle dataset (Top Spotify of of 2018)
+* Extradted data by scraping it from 24/7 Wall St (100 Most Popular Musicians on Tour in 2019)
 
 ### Transform
 
