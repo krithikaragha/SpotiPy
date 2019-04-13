@@ -13,7 +13,7 @@ create table artists(
     speechiness float,
     valence float); 
 
-select * from artist;    
+select * from artists;    
     
     
     
