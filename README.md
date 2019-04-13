@@ -4,7 +4,7 @@
 
 ### Objective
 
-To find out what the most popular features/trends for the Top Touring Artists of 2018/2019
+Discover the most popular features/trends for Top Artists of 2018/2019
 
 ### Extract
 
