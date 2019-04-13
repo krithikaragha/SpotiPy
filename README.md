@@ -6,6 +6,8 @@
 
 Discover the most popular features/trends for Top Artists of 2018/2019
 
+# Tasks
+
 ### Extract
 
 * Extracted data from CSV file taken from Kaggle dataset (Top Spotify Tracks of 2018)
