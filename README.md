@@ -6,7 +6,7 @@
 
 Discover the most popular features/trends for Top Artists of 2018/2019
 
-# Tasks
+## Tasks
 
   ### Extract
 
@@ -21,6 +21,6 @@ Discover the most popular features/trends for Top Artists of 2018/2019
 
    * Made a connection to a MySQL database and loaded the final pandas dataframe into a table
 
-# Graphical Analysis
+## Graphical Analysis
 
 Created simple line graphs plotting various features (danceability, energy, speechiness and valence) in one and loudness in the other. 
